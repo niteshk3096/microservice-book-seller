@@ -1,0 +1,4 @@
+/api-gateway/node_modules
+/auth/node_modules
+/books/node_modules
+.env
